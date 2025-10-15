@@ -1,3 +1,2 @@
-# hello-world
-Group skills Lab6 for big ideas class
-This is my updated README for Lab 6.
+# LAB 6
+Our program asks the user for their name and age and then prints them out
